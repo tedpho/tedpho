@@ -1,8 +1,5 @@
 I'm a Software Engineer with a Computer Science background, experienced in Blockchain and Web3, with a strong interest in distributed systems.
 
-
-<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
-
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m working at [](https://).
