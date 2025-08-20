@@ -1,13 +1,3 @@
-I'm a Software Engineer with a Computer Science background, experienced in Blockchain and Web3, with a strong interest in distributed systems.
-
-## ⚡️ A Few Quick Facts
-
-- 🔭 I’m working at [](https://).
-- 🧐 Always learning about blockchain, smart contracts, and software development.
-- 🤔 I’m looking for help with developing distributed systems in Rust and GO.
-- 💬 Ping me about blockchain stuff.
-- 📙 Check out my [resume].
-
 <h2>🚀 Some Tools I Use</h2>
 
 <p align="left">
@@ -28,6 +18,3 @@ I'm a Software Engineer with a Computer Science background, experienced in Block
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </p>
-
-[Holograph]: https://www.holograph.xyz/
-[resume]: https://drive.google.com/file/d/1uQok_g1qdIca6_jSByYRGAB3ZSW9fW5K/view?usp=drive_link
